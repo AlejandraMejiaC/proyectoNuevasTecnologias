@@ -1,0 +1,2 @@
+hola grupo2
+El tema de hoy es como usar commit solo
